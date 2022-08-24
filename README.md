@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact **I always have several ideas to achieve the same task**
 
+<h3 align="left">Certifications:</h3>
+
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Neyrods/javascript-algorithms-and-data-structures)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esteban-carri%C3%A8re-0655a8191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban carrière" height="30" width="40" /></a>
