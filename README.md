@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/escarrie](https://github.com/escarrie)
 
-- 💬 Ask me about **PHP 5 -> 8**
+- 💬 Ask me about **PHP 5 -> 8** or **JavaScript ES6**
 
 - 📫 How to reach me **carriere.esteban.bertin@gmail.com**
 
