@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Esteban Carrière</h1>
 <h3 align="center">A developer with a passion for the web and software</h3>
 
-- 🔭 I’m currently working on [Ping Game](https://github.com/escarrie/PingGame)
+- 🔭 I’m currently working on [Ping Game](https://ping-game.com)
 
-- 🌱 I’m currently learning **Yii2 Framework, Nodejs, Nest Framework, Nx Workspace**
+- 🌱 I’m currently learning **Yii2 Framework, ServiceNow, Nodejs, Nest Framework, Nx Workspace**
 
 - 👨‍💻 All of my projects are available at [https://github.com/escarrie](https://github.com/escarrie)
 
-- 💬 Ask me about **PHP 5 -> 8** or **JavaScript ES6**
+- 💬 Ask me about **PHP 5 → 8** or **JavaScript ES6**
 
 - 📫 How to reach me **carriere.esteban.bertin@gmail.com**
 
@@ -18,6 +18,7 @@
 <h3 align="left">Certifications:</h3>
 
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Neyrods/javascript-algorithms-and-data-structures)
+- [Micro Certifications Service Now](certification/mc-sn.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
