@@ -19,6 +19,7 @@
 
 - [JavaScript Algorithms and Data Structures](fcc-js.pdf)
 - [Micro Certifications Service Now](mc-sn.pdf)
+- [GDPR 2022](gdpr-2022.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
