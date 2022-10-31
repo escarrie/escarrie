@@ -18,7 +18,7 @@
 <h3 align="left">Certifications:</h3>
 
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Neyrods/javascript-algorithms-and-data-structures)
-- [Micro Certifications Service Now](certification/mc-sn.pdf)
+- [Micro Certifications Service Now](mc-sn.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
