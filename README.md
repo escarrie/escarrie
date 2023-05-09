@@ -91,7 +91,7 @@
 
 ## Github Stats  
 <div align="center">
-  ![Escarrie_43's GitHub stats](https://github-readme-stats.vercel.app/api?username=escarrie&show_icons=true&theme=radical)  
+  <img src="https://github-readme-stats.vercel.app/api?username=escarrie&show_icons=true&theme=radical" />
 </div>  
 
 <br/>  
