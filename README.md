@@ -79,15 +79,7 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escarrie&show_icons=true&theme=radical" />
-</div>  
-
-<br/>  
+<br/>
 
   
 
