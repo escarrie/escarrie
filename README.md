@@ -5,7 +5,7 @@
   
   
 
-- 🌱 I’m currently learning **Yii2 Framework, ServiceNow, Nodejs, Nest Framework, Nx Workspace**  
+- 🌱 I’m currently learning **Symfony Framework, Nodejs, Nest Framework, Nx Workspace**  
   
 
 - 👨‍💻 All of my projects are available at [https://github.com/escarrie](https://github.com/escarrie)  
