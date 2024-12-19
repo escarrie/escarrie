@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working for [Ubike](https://ubike.be)
   
+
+- 🕹️ But i'm also working on a personnal project named [Ping Game](https://ping-game.com)
   
 
 - 🌱 I’m currently learning **Symfony Framework, Nodejs, Nest Framework, Nx Workspace**  
