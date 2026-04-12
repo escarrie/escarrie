@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **PHP 5 → 8** or **JavaScript ES6**  
 
-- You can also download my cv [here](Resume.pdf)
+- You can also download my cv [here](resume.pdf)
 
 <br/>  
 
