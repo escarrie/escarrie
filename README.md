@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Esteban Carrière</div>  
   
 
-- 🔭 I’m currently working for [O2O](https://www.o2o.be/fr)
+- 🔭 I’m currently seeking for opportunities
   
 
 - 🕹️ But i'm also working on a personnal project named [Ping Game](https://ping-game.com)
