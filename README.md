@@ -2,13 +2,13 @@
 
 # Hi, I'm Esteban Carrière 👋
 
-**Freelance Full-Stack Developer** · PHP/Symfony · React/Next.js · DevOps
+**Freelance Full-Stack Developer** - PHP/Symfony - React/Next.js - DevOps
 
 I modernize legacy platforms and build scalable web products, from the API to the infrastructure.
 
-📍 Charleroi, Belgium · 🌍 Remote-friendly · 🇫🇷 French / 🇬🇧 English
+📍 Belgium 🌍 Remote-friendly - fr French (Native) / en English (B2 - eLAO)
 
-**✅ Available for freelance missions** · [contact@escarrie.eu](mailto:contact@escarrie.eu)
+**✅ Available for freelance missions** - [contact@escarrie.eu](mailto:contact@escarrie.eu)
 
 </div>
 
@@ -25,7 +25,7 @@ I modernize legacy platforms and build scalable web products, from the API to th
 
 **[Ping Game](https://ping-game.com)**: founder & developer
 A platform to create, promote and join gaming and e-sports events.
-Next.js 14 · React 18 · Symfony 7 (API Platform, Messenger, RoadRunner) · Docker Swarm · Traefik · GitHub Actions · OAuth2 (Discord, Google, Steam)
+Next.js 14 - React 18 - Symfony 7 (API Platform, Messenger, RoadRunner) - Docker Swarm - Traefik - GitHub Actions - OAuth2 (Discord, Google, Steam)
 
 **GEM, FiveM roleplay server**: DevOps / infrastructure
 Full server infrastructure management, backup strategy for game server and databases, anti-DDoS protection and IP masking.
